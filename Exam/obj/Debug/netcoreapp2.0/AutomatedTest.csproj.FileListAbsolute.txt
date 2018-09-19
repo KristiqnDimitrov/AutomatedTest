@@ -1,0 +1,15 @@
+C:\Users\kristian\Desktop\Exam\Exam\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\kristian\Desktop\Exam\Exam\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\kristian\Desktop\Exam\Exam\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\kristian\Desktop\Exam\Exam\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\kristian\Desktop\Exam\Exam\bin\Debug\netcoreapp2.0\AutomatedTest.deps.json
+C:\Users\kristian\Desktop\Exam\Exam\bin\Debug\netcoreapp2.0\AutomatedTest.runtimeconfig.json
+C:\Users\kristian\Desktop\Exam\Exam\bin\Debug\netcoreapp2.0\AutomatedTest.runtimeconfig.dev.json
+C:\Users\kristian\Desktop\Exam\Exam\bin\Debug\netcoreapp2.0\AutomatedTest.dll
+C:\Users\kristian\Desktop\Exam\Exam\bin\Debug\netcoreapp2.0\AutomatedTest.pdb
+C:\Users\kristian\Desktop\Exam\Exam\obj\Debug\netcoreapp2.0\AutomatedTest.csprojAssemblyReference.cache
+C:\Users\kristian\Desktop\Exam\Exam\obj\Debug\netcoreapp2.0\AutomatedTest.csproj.CoreCompileInputs.cache
+C:\Users\kristian\Desktop\Exam\Exam\obj\Debug\netcoreapp2.0\AutomatedTest.AssemblyInfoInputs.cache
+C:\Users\kristian\Desktop\Exam\Exam\obj\Debug\netcoreapp2.0\AutomatedTest.AssemblyInfo.cs
+C:\Users\kristian\Desktop\Exam\Exam\obj\Debug\netcoreapp2.0\AutomatedTest.dll
+C:\Users\kristian\Desktop\Exam\Exam\obj\Debug\netcoreapp2.0\AutomatedTest.pdb
